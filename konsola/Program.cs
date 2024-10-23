@@ -19,7 +19,6 @@ namespace konsola
             }
             return albums;
         }
-
         private static void DisplayAlbums(List<MusicAlbum> albums)
         {
             foreach (var item in albums)
